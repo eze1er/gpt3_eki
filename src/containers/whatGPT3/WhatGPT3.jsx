@@ -15,7 +15,10 @@ const WhatGPT3 = () => {
         <h1 className="gradient__text">
           The possibilities are beyond your imagination
         </h1>
-        <p>Explore The Library</p>
+        <p>
+      <a href="#blog">Explore The Library</a>
+    </p>
+        
       </div>
       <div className="gpt3__whatgpt3-container">
         <Feature
